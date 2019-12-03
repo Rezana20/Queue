@@ -712,10 +712,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://dcvmtfsbldprd01.investec.corp/id.nuget.server/nuget": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://isljhbbldpr01.investec.corp/IWI.NuGetServer/nuget": {},
-        "https://isljhbwebstn01/ISL.Web.NugetServer/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
+        
       },
       "frameworks": {
         "netcoreapp2.1": {
